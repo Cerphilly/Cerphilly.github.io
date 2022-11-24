@@ -9,39 +9,26 @@
 #### Language: Python3
 #### Framework: Tensorflow2, Pytorch, Keras
 
+## Publications
+
+#### 1. Quantization-Aware Pruning Criterion for Industrial Applications
+
+#### 2. Automatic Data Augmentation by Upper Confidence Bounds for Deep Reinforcement Learning
+
+#### 3. 강화학습을 이용한 카오틱 시스템 제어
+
 ## Toy Projects
 
 ### SimpleRL
----
 
-### Category Name 1 
+- [Tensorflow2](https://www.github.com)
+- [Pytorch](https://www.github.com)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Mtcnn-Arcface
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+### Sparse_VD_tf2
 
 
 
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
