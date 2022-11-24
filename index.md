@@ -1,14 +1,17 @@
 ## About me
 
+
 ## Education
 #### M.S in Convergence IT Engineering, POSTECH (2020 - 2023)
 #### B.S in Electrical Engineering, POSTECH (2014 - 2020)
 
 ## Skill
-### Language: Python
-### Framework: 
+#### Language: Python3
+#### Framework: Tensorflow2, Pytorch, Keras
 
-## Project
+## Toy Projects
+
+### SimpleRL
 ---
 
 ### Category Name 1 
