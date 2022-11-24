@@ -1,10 +1,12 @@
 ## About me
 
 ## Education
-##### M.S in Convergence IT Engineering, POSTECH (2020 - 2023)
-##### B.S in Electrical Engineering, POSTECH (2014 - 2020)
+#### M.S in Convergence IT Engineering, POSTECH (2020 - 2023)
+#### B.S in Electrical Engineering, POSTECH (2014 - 2020)
 
 ## Skill
+### Language: Python
+### Framework: 
 
 ## Project
 ---
