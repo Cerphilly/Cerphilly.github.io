@@ -1,5 +1,5 @@
 ## About me
-
+#### Major Interests: Reinforcement learning, Deep Learning, etc
 
 ## Education
 #### M.S in Convergence IT Engineering, POSTECH 
@@ -12,17 +12,17 @@
 ## Publications
 
 #### 1. Quantization-Aware Pruning Criterion for Industrial Applications
- ##### &nbsp;&nbsp;&nbsp; **Y. Gil**, J. Park, J. Baek and S. Han 
- ##### &nbsp;&nbsp;&nbsp; IEEE Transactions on Industrial Electronics, vol. 69, no. 3, pp. 3203-3213, March 2022
- ##### &nbsp;&nbsp;&nbsp; [Code](https://github.com/Cerphilly/UVNQ_tf2)
+ ##### **Y. Gil**, J. Park, J. Baek and S. Han
+ ##### _IEEE Transactions on Industrial Electronics_, vol. 69, no. 3, pp. 3203-3213, March 2022
+ ##### [Code](https://github.com/Cerphilly/UVNQ_tf2)
   
 #### 2. Automatic Data Augmentation by Upper Confidence Bounds for Deep Reinforcement Learning
-  ##### &nbsp;&nbsp;&nbsp; **Y. Gil**, J. Baek, J. Park and S. Han
-  ##### &nbsp;&nbsp;&nbsp; 2021 21st International Conference on Control, Automation and Systems (ICCAS), pp. 1199-1203, October 2021
+  ##### **Y. Gil**, J. Baek, J. Park and S. Han
+  ##### _2021 21st International Conference on Control, Automation and Systems (ICCAS)_, pp. 1199-1203, October 2021
   
 #### 3. 강화학습을 이용한 카오틱 시스템 제어
-  ##### &nbsp;&nbsp;&nbsp;  **Y. Gil**, J. Baek, J. Choi, J. Park, H. Kim and S. Han
-  ##### &nbsp;&nbsp;&nbsp;  2020 35rd Institute of Control, Robotics and Systems (ICROS), July 2020
+  ##### **Y. Gil**, J. Baek, J. Choi, J. Park, H. Kim and S. Han
+  ##### _2020 35rd Institute of Control, Robotics and Systems (ICROS)_, July 2020
 
 ## Toy Projects
 
