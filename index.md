@@ -1,5 +1,7 @@
 ## About me
-#### Major Interests: Reinforcement learning, Deep Learning, etc
+- Loves exploring new interesting topics
+- Loves generating values for real world from theories 
+- **Major Interests: Reinforcement learning, Deep Learning, Deep Neural Network Compression**
 
 ## Education
 #### M.S in Convergence IT Engineering, POSTECH 
