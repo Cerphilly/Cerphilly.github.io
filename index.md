@@ -24,6 +24,9 @@
 ##### **Y. Gil**, J. Baek, J. Choi, J. Park, H. Kim and S. Han
 ##### _2020 35rd Institute of Control, Robotics and Systems (ICROS)_, July 2020
 
+## Work Experience
+#### (주)AHAM
+
 ## Toy Projects
 
 ### SimpleRL
@@ -32,8 +35,10 @@
 - **Code** : [Tensorflow2](https://github.com/Cerphilly/SimpleRL) / [Pytorch](https://github.com/Cerphilly/cocelRL)
 
 ### Mtcnn-Arcface
+- **Face detection program for webcam/Raspberry Pi**
+- **Multi-task Cascaded Convolutional Networks (MTCNN) + Additive Angular Margin Loss for Deep Face Recognition (Arcface)**
 - [Link](https://github.com/Cerphilly/mtcnn-arcface)
-- 
+
 ### Sparse_VD_tf2
 - **Unofficial Implementation of [Sparse Variational Dropout](https://arxiv.org/abs/1701.05369) in Tensorflow2**
 - [Link](https://github.com/Cerphilly/Sparse_VD_tf2)
