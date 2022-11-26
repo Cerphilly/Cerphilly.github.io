@@ -26,6 +26,8 @@
 
 ## Work Experience
 #### (주)AHAM
+- Internship as a machine learning engineer (2019.7 - 2019.8)
+- Worked on face recognition program for Raspberry Pi ([Code](#mtcnn))
 
 ## Toy Projects
 
@@ -34,14 +36,15 @@
 - **Contains multiple Model-free RL algorithms and visual RL algorithms** 
 - **Code** : [Tensorflow2](https://github.com/Cerphilly/SimpleRL) / [Pytorch](https://github.com/Cerphilly/cocelRL)
 
+<a name='mtcnn'></a>
 ### Mtcnn-Arcface
 - **Face detection program for webcam/Raspberry Pi**
 - **Multi-task Cascaded Convolutional Networks (MTCNN) + Additive Angular Margin Loss for Deep Face Recognition (Arcface)**
-- [Link](https://github.com/Cerphilly/mtcnn-arcface)
+- **Code** : [Link](https://github.com/Cerphilly/mtcnn-arcface)
 
 ### Sparse_VD_tf2
 - **Unofficial Implementation of [Sparse Variational Dropout](https://arxiv.org/abs/1701.05369) in Tensorflow2**
-- [Link](https://github.com/Cerphilly/Sparse_VD_tf2)
+- **Code** : [Link](https://github.com/Cerphilly/Sparse_VD_tf2)
 
 
 
